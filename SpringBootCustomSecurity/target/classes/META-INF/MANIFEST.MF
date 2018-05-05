@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootCustomSecurity
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Kamboj
+Implementation-Vendor-Id: kamboj.ankit
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootCu
+ stomSecurity/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
